@@ -1,3 +1,8 @@
 this is the first line of devops
 
+
 this is updated in 1st branch-------
+
+this is updated from the 2nd branch ---------
+
+-conflict are resolved here
